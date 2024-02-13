@@ -1,0 +1,8 @@
+2024/01/22 20:43:23, telephone_book.txt, Create Telephone Book
+2024/01/22 20:43:29, telephone_book.txt, Display
+2024/01/22 20:44:08, Index: 9832312358, Entry: akshay              7834892349238       , Write
+2024/01/22 20:44:23, telephone_book.txt, Read
+2024/01/22 20:44:28, telephone_book.txt, Display
+2024/01/22 20:44:52, telephone_book.txt, Read
+2024/01/22 20:45:19, Index: 16, Entry: someone             9869868             , Write
+2024/01/22 20:45:22, telephone_book.txt, Display
