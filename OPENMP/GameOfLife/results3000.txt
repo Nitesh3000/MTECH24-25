@@ -1,0 +1,20 @@
+Grid Size: 3000 x 3000, Threads: 1
+Total execution time for parallel portion is: 8622.090836 seconds
+Total execution time is:  9821.257414 seconds
+Total time just for serial section is:  1199.166578 seconds
+Grid Size: 3000 x 3000, Threads: 4
+Total execution time for parallel portion is: 2317.713137 seconds
+Total execution time is:  3533.835584 seconds
+Total time just for serial section is:  1216.122447 seconds
+Grid Size: 3000 x 3000, Threads: 8
+Total execution time for parallel portion is: 2310.026181 seconds
+Total execution time is:  3525.511830 seconds
+Total time just for serial section is:  1215.485650 seconds
+Grid Size: 3000 x 3000, Threads: 12
+Total execution time for parallel portion is: 2300.628231 seconds
+Total execution time is:  3516.732768 seconds
+Total time just for serial section is:  1216.104536 seconds
+Grid Size: 3000 x 3000, Threads: 16
+Total execution time for parallel portion is: 2297.566544 seconds
+Total execution time is:  3513.584972 seconds
+Total time just for serial section is:  1216.018428 seconds

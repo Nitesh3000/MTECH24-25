@@ -1,0 +1,24 @@
+Grid Size: 150 x 150, Threads: 1
+Total execution time for parallel portion is: 25.592980 seconds
+Total execution time is:  28.080451 seconds
+Total time just for serial section is:  2.487471 seconds
+
+Grid Size: 150 x 150, Threads: 4
+Total execution time for parallel portion is: 14.281172 seconds
+Total execution time is:  18.484978 seconds
+Total time just for serial section is:  4.203807 seconds
+
+Grid Size: 150 x 150, Threads: 8
+Total execution time for parallel portion is: 13.597720 seconds
+Total execution time is:  16.927920 seconds
+Total time just for serial section is:  3.330200 seconds
+
+Grid Size: 150 x 150, Threads: 12
+Total execution time for parallel portion is: 13.003689 seconds
+Total execution time is:  16.587020 seconds
+Total time just for serial section is:  3.583332 seconds
+
+Grid Size: 150 x 150, Threads: 16
+Total execution time for parallel portion is: 14.143303 seconds
+Total execution time is:  18.377995 seconds
+Total time just for serial section is:  4.234692 seconds

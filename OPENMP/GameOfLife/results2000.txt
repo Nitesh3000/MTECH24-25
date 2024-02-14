@@ -1,0 +1,24 @@
+Grid Size: 2000 x 2000, Threads: 1
+Total execution time for parallel portion is: 3649.025449 seconds
+Total execution time is:  4134.157184 seconds
+Total time just for serial section is:  485.131735 seconds
+
+Grid Size: 2000 x 2000, Threads: 4
+Total execution time for parallel portion is: 1040.760726 seconds
+Total execution time is:  1558.173945 seconds
+Total time just for serial section is:  517.413219 seconds
+
+Grid Size: 2000 x 2000, Threads: 8
+Total execution time for parallel portion is: 1041.080113 seconds
+Total execution time is:  1558.429473 seconds
+Total time just for serial section is:  517.349360 seconds
+
+Grid Size: 2000 x 2000, Threads: 12
+Total execution time for parallel portion is: 1030.148880 seconds
+Total execution time is:  1548.052711 seconds
+Total time just for serial section is:  517.903830 seconds
+
+Grid Size: 2000 x 2000, Threads: 16
+Total execution time for parallel portion is: 1171.394839 seconds
+Total execution time is:  1738.450001 seconds
+Total time just for serial section is:  567.055161 seconds

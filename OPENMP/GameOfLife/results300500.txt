@@ -1,0 +1,49 @@
+Grid Size: 300 x 300, Threads: 1
+Total execution time for parallel portion is: 94.926464 seconds
+Total execution time is:  111.060136 seconds
+Total time just for serial section is:  16.133672 seconds
+
+Grid Size: 300 x 300, Threads: 4
+Total execution time for parallel portion is: 43.604016 seconds
+Total execution time is:  64.635302 seconds
+Total time just for serial section is:  21.031286 seconds
+
+Grid Size: 300 x 300, Threads: 8
+Total execution time for parallel portion is: 41.507415 seconds
+Total execution time is:  61.912526 seconds
+Total time just for serial section is:  20.405110 seconds
+
+Grid Size: 300 x 300, Threads: 12
+Total execution time for parallel portion is: 40.873489 seconds
+Total execution time is:  61.923082 seconds
+Total time just for serial section is:  21.049593 seconds
+
+Grid Size: 300 x 300, Threads: 16
+Total execution time for parallel portion is: 38.564622 seconds
+Total execution time is:  57.825083 seconds
+Total time just for serial section is:  19.260461 seconds
+
+Grid Size: 500 x 500, Threads: 1
+Total execution time for parallel portion is: 254.307667 seconds
+Total execution time is:  290.100933 seconds
+Total time just for serial section is:  35.793266 seconds
+
+Grid Size: 500 x 500, Threads: 4
+Total execution time for parallel portion is: 83.768950 seconds
+Total execution time is:  123.825083 seconds
+Total time just for serial section is:  40.056132 seconds
+
+Grid Size: 500 x 500, Threads: 8
+Total execution time for parallel portion is: 84.116418 seconds
+Total execution time is:  123.126612 seconds
+Total time just for serial section is:  39.010195 seconds
+
+Grid Size: 500 x 500, Threads: 12
+Total execution time for parallel portion is: 82.445212 seconds
+Total execution time is:  122.220326 seconds
+Total time just for serial section is:  39.775114 seconds
+
+Grid Size: 500 x 500, Threads: 16
+Total execution time for parallel portion is: 82.119555 seconds
+Total execution time is:  122.140643 seconds
+Total time just for serial section is:  40.021088 seconds

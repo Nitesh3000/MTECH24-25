@@ -1,0 +1,498 @@
+Grid Size: 10 x 10, Threads: 1
+Total execution time for parallel portion is: 1.729360 seconds
+Total execution time is:  1.760253 seconds
+Total time just for serial section is:  0.030893 seconds
+Grid Size: 10 x 10, Threads: 2
+Total execution time for parallel portion is: 1.074728 seconds
+Total execution time is:  1.109778 seconds
+Total time just for serial section is:  0.035050 seconds
+Grid Size: 10 x 10, Threads: 3
+Total execution time for parallel portion is: 1.141996 seconds
+Total execution time is:  1.268170 seconds
+Total time just for serial section is:  0.126175 seconds
+Grid Size: 10 x 10, Threads: 4
+Total execution time for parallel portion is: 1.111969 seconds
+Total execution time is:  1.298433 seconds
+Total time just for serial section is:  0.186464 seconds
+Grid Size: 10 x 10, Threads: 5
+Total execution time for parallel portion is: 1.598274 seconds
+Total execution time is:  1.635736 seconds
+Total time just for serial section is:  0.037462 seconds
+Grid Size: 10 x 10, Threads: 6
+Total execution time for parallel portion is: 1.585631 seconds
+Total execution time is:  1.623268 seconds
+Total time just for serial section is:  0.037637 seconds
+Grid Size: 10 x 10, Threads: 7
+Total execution time for parallel portion is: 1.582435 seconds
+Total execution time is:  1.618999 seconds
+Total time just for serial section is:  0.036565 seconds
+Grid Size: 10 x 10, Threads: 8
+Total execution time for parallel portion is: 1.634540 seconds
+Total execution time is:  1.673851 seconds
+Total time just for serial section is:  0.039311 seconds
+Grid Size: 10 x 10, Threads: 9
+Total execution time for parallel portion is: 1.610615 seconds
+Total execution time is:  1.648816 seconds
+Total time just for serial section is:  0.038201 seconds
+Grid Size: 10 x 10, Threads: 10
+Total execution time for parallel portion is: 1.630673 seconds
+Total execution time is:  1.668986 seconds
+Total time just for serial section is:  0.038312 seconds
+Grid Size: 10 x 10, Threads: 11
+Total execution time for parallel portion is: 1.625899 seconds
+Total execution time is:  1.665467 seconds
+Total time just for serial section is:  0.039567 seconds
+Grid Size: 10 x 10, Threads: 12
+Total execution time for parallel portion is: 1.641337 seconds
+Total execution time is:  1.680382 seconds
+Total time just for serial section is:  0.039045 seconds
+Grid Size: 10 x 10, Threads: 13
+Total execution time for parallel portion is: 1.647240 seconds
+Total execution time is:  1.685532 seconds
+Total time just for serial section is:  0.038292 seconds
+Grid Size: 10 x 10, Threads: 14
+Total execution time for parallel portion is: 1.644181 seconds
+Total execution time is:  1.683382 seconds
+Total time just for serial section is:  0.039201 seconds
+Grid Size: 10 x 10, Threads: 15
+Total execution time for parallel portion is: 1.620377 seconds
+Total execution time is:  1.659115 seconds
+Total time just for serial section is:  0.038738 seconds
+Grid Size: 10 x 10, Threads: 16
+Total execution time for parallel portion is: 1.659981 seconds
+Total execution time is:  1.698600 seconds
+Total time just for serial section is:  0.038619 seconds
+Grid Size: 20 x 20, Threads: 1
+Total execution time for parallel portion is: 2.154374 seconds
+Total execution time is:  2.232065 seconds
+Total time just for serial section is:  0.077691 seconds
+Grid Size: 20 x 20, Threads: 2
+Total execution time for parallel portion is: 1.264477 seconds
+Total execution time is:  1.340423 seconds
+Total time just for serial section is:  0.075946 seconds
+Grid Size: 20 x 20, Threads: 3
+Total execution time for parallel portion is: 1.269983 seconds
+Total execution time is:  1.411852 seconds
+Total time just for serial section is:  0.141869 seconds
+Grid Size: 20 x 20, Threads: 4
+Total execution time for parallel portion is: 1.422932 seconds
+Total execution time is:  1.643763 seconds
+Total time just for serial section is:  0.220831 seconds
+Grid Size: 20 x 20, Threads: 5
+Total execution time for parallel portion is: 1.746415 seconds
+Total execution time is:  1.826837 seconds
+Total time just for serial section is:  0.080423 seconds
+Grid Size: 20 x 20, Threads: 6
+Total execution time for parallel portion is: 1.757496 seconds
+Total execution time is:  1.832957 seconds
+Total time just for serial section is:  0.075461 seconds
+Grid Size: 20 x 20, Threads: 7
+Total execution time for parallel portion is: 1.856384 seconds
+Total execution time is:  1.942964 seconds
+Total time just for serial section is:  0.086581 seconds
+Grid Size: 20 x 20, Threads: 8
+Total execution time for parallel portion is: 1.891522 seconds
+Total execution time is:  1.972071 seconds
+Total time just for serial section is:  0.080549 seconds
+Grid Size: 20 x 20, Threads: 9
+Total execution time for parallel portion is: 1.907176 seconds
+Total execution time is:  1.992672 seconds
+Total time just for serial section is:  0.085496 seconds
+Grid Size: 20 x 20, Threads: 10
+Total execution time for parallel portion is: 1.916056 seconds
+Total execution time is:  1.992223 seconds
+Total time just for serial section is:  0.076167 seconds
+Grid Size: 20 x 20, Threads: 11
+Total execution time for parallel portion is: 1.812927 seconds
+Total execution time is:  1.887758 seconds
+Total time just for serial section is:  0.074831 seconds
+Grid Size: 20 x 20, Threads: 12
+Total execution time for parallel portion is: 1.846484 seconds
+Total execution time is:  1.924711 seconds
+Total time just for serial section is:  0.078226 seconds
+Grid Size: 20 x 20, Threads: 13
+Total execution time for parallel portion is: 1.878649 seconds
+Total execution time is:  1.975380 seconds
+Total time just for serial section is:  0.096731 seconds
+Grid Size: 20 x 20, Threads: 14
+Total execution time for parallel portion is: 1.768269 seconds
+Total execution time is:  1.856887 seconds
+Total time just for serial section is:  0.088618 seconds
+Grid Size: 20 x 20, Threads: 15
+Total execution time for parallel portion is: 1.922235 seconds
+Total execution time is:  2.006142 seconds
+Total time just for serial section is:  0.083908 seconds
+Grid Size: 20 x 20, Threads: 16
+Total execution time for parallel portion is: 1.888340 seconds
+Total execution time is:  1.966216 seconds
+Total time just for serial section is:  0.077876 seconds
+Grid Size: 50 x 50, Threads: 1
+Total execution time for parallel portion is: 4.274868 seconds
+Total execution time is:  4.498833 seconds
+Total time just for serial section is:  0.223965 seconds
+Grid Size: 50 x 50, Threads: 2
+Total execution time for parallel portion is: 2.571432 seconds
+Total execution time is:  2.801723 seconds
+Total time just for serial section is:  0.230291 seconds
+Grid Size: 50 x 50, Threads: 3
+Total execution time for parallel portion is: 2.625135 seconds
+Total execution time is:  2.962994 seconds
+Total time just for serial section is:  0.337858 seconds
+Grid Size: 50 x 50, Threads: 4
+Total execution time for parallel portion is: 2.365807 seconds
+Total execution time is:  2.776868 seconds
+Total time just for serial section is:  0.411060 seconds
+Grid Size: 50 x 50, Threads: 5
+Total execution time for parallel portion is: 2.972082 seconds
+Total execution time is:  3.239329 seconds
+Total time just for serial section is:  0.267247 seconds
+Grid Size: 50 x 50, Threads: 6
+Total execution time for parallel portion is: 2.968886 seconds
+Total execution time is:  3.249606 seconds
+Total time just for serial section is:  0.280720 seconds
+Grid Size: 50 x 50, Threads: 7
+Total execution time for parallel portion is: 2.898212 seconds
+Total execution time is:  3.145728 seconds
+Total time just for serial section is:  0.247517 seconds
+Grid Size: 50 x 50, Threads: 8
+Total execution time for parallel portion is: 2.878365 seconds
+Total execution time is:  3.122170 seconds
+Total time just for serial section is:  0.243806 seconds
+Grid Size: 50 x 50, Threads: 9
+Total execution time for parallel portion is: 2.822601 seconds
+Total execution time is:  3.075618 seconds
+Total time just for serial section is:  0.253016 seconds
+Grid Size: 50 x 50, Threads: 10
+Total execution time for parallel portion is: 2.814688 seconds
+Total execution time is:  3.054258 seconds
+Total time just for serial section is:  0.239570 seconds
+Grid Size: 50 x 50, Threads: 11
+Total execution time for parallel portion is: 2.753377 seconds
+Total execution time is:  2.988653 seconds
+Total time just for serial section is:  0.235276 seconds
+Grid Size: 50 x 50, Threads: 12
+Total execution time for parallel portion is: 3.198873 seconds
+Total execution time is:  3.490858 seconds
+Total time just for serial section is:  0.291985 seconds
+Grid Size: 50 x 50, Threads: 13
+Total execution time for parallel portion is: 2.899606 seconds
+Total execution time is:  3.164315 seconds
+Total time just for serial section is:  0.264709 seconds
+Grid Size: 50 x 50, Threads: 14
+Total execution time for parallel portion is: 2.899938 seconds
+Total execution time is:  3.140012 seconds
+Total time just for serial section is:  0.240073 seconds
+Grid Size: 50 x 50, Threads: 15
+Total execution time for parallel portion is: 2.829880 seconds
+Total execution time is:  3.080030 seconds
+Total time just for serial section is:  0.250150 seconds
+Grid Size: 50 x 50, Threads: 16
+Total execution time for parallel portion is: 2.824405 seconds
+Total execution time is:  3.068367 seconds
+Total time just for serial section is:  0.243963 seconds
+Grid Size: 100 x 100, Threads: 1
+Total execution time for parallel portion is: 11.780271 seconds
+Total execution time is:  12.555370 seconds
+Total time just for serial section is:  0.775099 seconds
+Grid Size: 100 x 100, Threads: 2
+Total execution time for parallel portion is: 6.573930 seconds
+Total execution time is:  7.437186 seconds
+Total time just for serial section is:  0.863256 seconds
+Grid Size: 100 x 100, Threads: 3
+Total execution time for parallel portion is: 5.309232 seconds
+Total execution time is:  6.483822 seconds
+Total time just for serial section is:  1.174590 seconds
+Grid Size: 100 x 100, Threads: 4
+Total execution time for parallel portion is: 5.506134 seconds
+Total execution time is:  6.806809 seconds
+Total time just for serial section is:  1.300674 seconds
+Grid Size: 100 x 100, Threads: 5
+Total execution time for parallel portion is: 6.244459 seconds
+Total execution time is:  7.323974 seconds
+Total time just for serial section is:  1.079515 seconds
+Grid Size: 100 x 100, Threads: 6
+Total execution time for parallel portion is: 5.707132 seconds
+Total execution time is:  6.886815 seconds
+Total time just for serial section is:  1.179683 seconds
+Grid Size: 100 x 100, Threads: 7
+Total execution time for parallel portion is: 5.744244 seconds
+Total execution time is:  6.822892 seconds
+Total time just for serial section is:  1.078648 seconds
+Grid Size: 100 x 100, Threads: 8
+Total execution time for parallel portion is: 5.745382 seconds
+Total execution time is:  6.945003 seconds
+Total time just for serial section is:  1.199621 seconds
+Grid Size: 100 x 100, Threads: 9
+Total execution time for parallel portion is: 5.719954 seconds
+Total execution time is:  6.971744 seconds
+Total time just for serial section is:  1.251790 seconds
+Grid Size: 100 x 100, Threads: 10
+Total execution time for parallel portion is: 5.731664 seconds
+Total execution time is:  6.791226 seconds
+Total time just for serial section is:  1.059562 seconds
+Grid Size: 100 x 100, Threads: 11
+Total execution time for parallel portion is: 5.683874 seconds
+Total execution time is:  6.825744 seconds
+Total time just for serial section is:  1.141870 seconds
+Grid Size: 100 x 100, Threads: 12
+Total execution time for parallel portion is: 5.660896 seconds
+Total execution time is:  6.877141 seconds
+Total time just for serial section is:  1.216245 seconds
+Grid Size: 100 x 100, Threads: 13
+Total execution time for parallel portion is: 5.660932 seconds
+Total execution time is:  6.825765 seconds
+Total time just for serial section is:  1.164833 seconds
+Grid Size: 100 x 100, Threads: 14
+Total execution time for parallel portion is: 5.679150 seconds
+Total execution time is:  6.841247 seconds
+Total time just for serial section is:  1.162097 seconds
+Grid Size: 100 x 100, Threads: 15
+Total execution time for parallel portion is: 6.073289 seconds
+Total execution time is:  7.245442 seconds
+Total time just for serial section is:  1.172153 seconds
+Grid Size: 100 x 100, Threads: 16
+Total execution time for parallel portion is: 6.170954 seconds
+Total execution time is:  7.344239 seconds
+Total time just for serial section is:  1.173285 seconds
+Grid Size: 150 x 150, Threads: 1
+Total execution time for parallel portion is: 23.813702 seconds
+Total execution time is:  25.276495 seconds
+Total time just for serial section is:  1.462793 seconds
+Grid Size: 150 x 150, Threads: 2
+Total execution time for parallel portion is: 13.767366 seconds
+Total execution time is:  16.657963 seconds
+Total time just for serial section is:  2.890596 seconds
+Grid Size: 150 x 150, Threads: 3
+Total execution time for parallel portion is: 9.682377 seconds
+Total execution time is:  12.379380 seconds
+Total time just for serial section is:  2.697004 seconds
+Grid Size: 150 x 150, Threads: 4
+Total execution time for parallel portion is: 10.118825 seconds
+Total execution time is:  12.562152 seconds
+Total time just for serial section is:  2.443327 seconds
+Grid Size: 150 x 150, Threads: 5
+Total execution time for parallel portion is: 11.417922 seconds
+Total execution time is:  13.113543 seconds
+Total time just for serial section is:  1.695621 seconds
+Grid Size: 150 x 150, Threads: 6
+Total execution time for parallel portion is: 10.101378 seconds
+Total execution time is:  12.512718 seconds
+Total time just for serial section is:  2.411339 seconds
+Grid Size: 150 x 150, Threads: 7
+Total execution time for parallel portion is: 10.734140 seconds
+Total execution time is:  13.106323 seconds
+Total time just for serial section is:  2.372182 seconds
+Grid Size: 150 x 150, Threads: 8
+Total execution time for parallel portion is: 10.217563 seconds
+Total execution time is:  12.479804 seconds
+Total time just for serial section is:  2.262241 seconds
+Grid Size: 150 x 150, Threads: 9
+Total execution time for parallel portion is: 10.035059 seconds
+Total execution time is:  12.524263 seconds
+Total time just for serial section is:  2.489204 seconds
+Grid Size: 150 x 150, Threads: 10
+Total execution time for parallel portion is: 10.080466 seconds
+Total execution time is:  12.555613 seconds
+Total time just for serial section is:  2.475146 seconds
+Grid Size: 150 x 150, Threads: 11
+Total execution time for parallel portion is: 10.862292 seconds
+Total execution time is:  13.351915 seconds
+Total time just for serial section is:  2.489623 seconds
+Grid Size: 150 x 150, Threads: 12
+Total execution time for parallel portion is: 10.231087 seconds
+Total execution time is:  12.704286 seconds
+Total time just for serial section is:  2.473199 seconds
+Grid Size: 150 x 150, Threads: 13
+Total execution time for parallel portion is: 10.427950 seconds
+Total execution time is:  12.963684 seconds
+Total time just for serial section is:  2.535734 seconds
+Grid Size: 150 x 150, Threads: 14
+Total execution time for parallel portion is: 10.663409 seconds
+Total execution time is:  13.181387 seconds
+Total time just for serial section is:  2.517978 seconds
+Grid Size: 150 x 150, Threads: 15
+Total execution time for parallel portion is: 10.401990 seconds
+Total execution time is:  12.926970 seconds
+Total time just for serial section is:  2.524979 seconds
+Grid Size: 150 x 150, Threads: 16
+Total execution time for parallel portion is: 10.282468 seconds
+Total execution time is:  12.946012 seconds
+Total time just for serial section is:  2.663545 seconds
+Grid Size: 300 x 300, Threads: 1
+Total execution time for parallel portion is: 90.911026 seconds
+Total execution time is:  95.372263 seconds
+Total time just for serial section is:  4.461236 seconds
+Grid Size: 300 x 300, Threads: 2
+Total execution time for parallel portion is: 48.131559 seconds
+Total execution time is:  53.755373 seconds
+Total time just for serial section is:  5.623815 seconds
+Grid Size: 300 x 300, Threads: 3
+Total execution time for parallel portion is: 35.133945 seconds
+Total execution time is:  40.938114 seconds
+Total time just for serial section is:  5.804169 seconds
+Grid Size: 300 x 300, Threads: 4
+Total execution time for parallel portion is: 31.490374 seconds
+Total execution time is:  39.692410 seconds
+Total time just for serial section is:  8.202036 seconds
+Grid Size: 300 x 300, Threads: 5
+Total execution time for parallel portion is: 34.164023 seconds
+Total execution time is:  39.670462 seconds
+Total time just for serial section is:  5.506439 seconds
+Grid Size: 300 x 300, Threads: 6
+Total execution time for parallel portion is: 31.541209 seconds
+Total execution time is:  39.197101 seconds
+Total time just for serial section is:  7.655891 seconds
+Grid Size: 300 x 300, Threads: 7
+Total execution time for parallel portion is: 30.286376 seconds
+Total execution time is:  39.112197 seconds
+Total time just for serial section is:  8.825820 seconds
+Grid Size: 300 x 300, Threads: 8
+Total execution time for parallel portion is: 29.731218 seconds
+Total execution time is:  39.041304 seconds
+Total time just for serial section is:  9.310086 seconds
+Grid Size: 300 x 300, Threads: 9
+Total execution time for parallel portion is: 30.572830 seconds
+Total execution time is:  39.179816 seconds
+Total time just for serial section is:  8.606985 seconds
+Grid Size: 300 x 300, Threads: 10
+Total execution time for parallel portion is: 29.958271 seconds
+Total execution time is:  39.098948 seconds
+Total time just for serial section is:  9.140677 seconds
+Grid Size: 300 x 300, Threads: 11
+Total execution time for parallel portion is: 29.591841 seconds
+Total execution time is:  39.163631 seconds
+Total time just for serial section is:  9.571791 seconds
+Grid Size: 300 x 300, Threads: 12
+Total execution time for parallel portion is: 29.457795 seconds
+Total execution time is:  39.082913 seconds
+Total time just for serial section is:  9.625118 seconds
+Grid Size: 300 x 300, Threads: 13
+Total execution time for parallel portion is: 29.607262 seconds
+Total execution time is:  39.104720 seconds
+Total time just for serial section is:  9.497459 seconds
+Grid Size: 300 x 300, Threads: 14
+Total execution time for parallel portion is: 29.407175 seconds
+Total execution time is:  39.078615 seconds
+Total time just for serial section is:  9.671441 seconds
+Grid Size: 300 x 300, Threads: 15
+Total execution time for parallel portion is: 29.116821 seconds
+Total execution time is:  39.119537 seconds
+Total time just for serial section is:  10.002716 seconds
+Grid Size: 300 x 300, Threads: 16
+Total execution time for parallel portion is: 29.917280 seconds
+Total execution time is:  39.360451 seconds
+Total time just for serial section is:  9.443171 seconds
+Grid Size: 500 x 500, Threads: 1
+Total execution time for parallel portion is: 242.183835 seconds
+Total execution time is:  276.748770 seconds
+Total time just for serial section is:  34.564935 seconds
+Grid Size: 500 x 500, Threads: 2
+Total execution time for parallel portion is: 129.524233 seconds
+Total execution time is:  163.817709 seconds
+Total time just for serial section is:  34.293476 seconds
+Grid Size: 500 x 500, Threads: 3
+Total execution time for parallel portion is: 88.506293 seconds
+Total execution time is:  121.537128 seconds
+Total time just for serial section is:  33.030835 seconds
+Grid Size: 500 x 500, Threads: 4
+Total execution time for parallel portion is: 70.958233 seconds
+Total execution time is:  103.829126 seconds
+Total time just for serial section is:  32.870893 seconds
+Grid Size: 500 x 500, Threads: 5
+Total execution time for parallel portion is: 82.106637 seconds
+Total execution time is:  115.292081 seconds
+Total time just for serial section is:  33.185444 seconds
+Grid Size: 500 x 500, Threads: 6
+Total execution time for parallel portion is: 74.687723 seconds
+Total execution time is:  107.822482 seconds
+Total time just for serial section is:  33.134760 seconds
+Grid Size: 500 x 500, Threads: 7
+Total execution time for parallel portion is: 74.674898 seconds
+Total execution time is:  107.826939 seconds
+Total time just for serial section is:  33.152042 seconds
+Grid Size: 500 x 500, Threads: 8
+Total execution time for parallel portion is: 74.054001 seconds
+Total execution time is:  107.208014 seconds
+Total time just for serial section is:  33.154013 seconds
+Grid Size: 500 x 500, Threads: 9
+Total execution time for parallel portion is: 73.980613 seconds
+Total execution time is:  107.112648 seconds
+Total time just for serial section is:  33.132035 seconds
+Grid Size: 500 x 500, Threads: 10
+Total execution time for parallel portion is: 72.959320 seconds
+Total execution time is:  105.932294 seconds
+Total time just for serial section is:  32.972975 seconds
+Grid Size: 500 x 500, Threads: 11
+Total execution time for parallel portion is: 72.617951 seconds
+Total execution time is:  105.751871 seconds
+Total time just for serial section is:  33.133920 seconds
+Grid Size: 500 x 500, Threads: 12
+Total execution time for parallel portion is: 72.295713 seconds
+Total execution time is:  105.411880 seconds
+Total time just for serial section is:  33.116166 seconds
+Grid Size: 500 x 500, Threads: 13
+Total execution time for parallel portion is: 72.694696 seconds
+Total execution time is:  105.839934 seconds
+Total time just for serial section is:  33.145238 seconds
+Grid Size: 500 x 500, Threads: 14
+Total execution time for parallel portion is: 72.423320 seconds
+Total execution time is:  105.547030 seconds
+Total time just for serial section is:  33.123710 seconds
+Grid Size: 500 x 500, Threads: 15
+Total execution time for parallel portion is: 71.699154 seconds
+Total execution time is:  104.809303 seconds
+Total time just for serial section is:  33.110149 seconds
+Grid Size: 500 x 500, Threads: 16
+Total execution time for parallel portion is: 71.842226 seconds
+Total execution time is:  104.937814 seconds
+Total time just for serial section is:  33.095588 seconds
+Grid Size: 1000 x 1000, Threads: 1
+Total execution time for parallel portion is: 969.178165 seconds
+Total execution time is:  1098.631010 seconds
+Total time just for serial section is:  129.452846 seconds
+Grid Size: 1000 x 1000, Threads: 2
+Total execution time for parallel portion is: 499.756409 seconds
+Total execution time is:  629.392202 seconds
+Total time just for serial section is:  129.635793 seconds
+Grid Size: 1000 x 1000, Threads: 3
+Total execution time for parallel portion is: 342.036878 seconds
+Total execution time is:  471.555588 seconds
+Total time just for serial section is:  129.518710 seconds
+Grid Size: 1000 x 1000, Threads: 4
+Total execution time for parallel portion is: 273.772022 seconds
+Total execution time is:  403.889242 seconds
+Total time just for serial section is:  130.117221 seconds
+Grid Size: 1000 x 1000, Threads: 5
+Total execution time for parallel portion is: 310.274543 seconds
+Total execution time is:  440.482675 seconds
+Total time just for serial section is:  130.208132 seconds
+Grid Size: 1000 x 1000, Threads: 6
+Total execution time for parallel portion is: 274.893611 seconds
+Total execution time is:  404.801128 seconds
+Total time just for serial section is:  129.907517 seconds
+Grid Size: 1000 x 1000, Threads: 7
+Total execution time for parallel portion is: 278.737026 seconds
+Total execution time is:  408.591434 seconds
+Total time just for serial section is:  129.854408 seconds
+Grid Size: 1000 x 1000, Threads: 8
+Total execution time for parallel portion is: 277.527140 seconds
+Total execution time is:  407.326900 seconds
+Total time just for serial section is:  129.799760 seconds
+Grid Size: 1000 x 1000, Threads: 9
+Total execution time for parallel portion is: 274.419343 seconds
+Total execution time is:  404.297788 seconds
+Total time just for serial section is:  129.878446 seconds
+Grid Size: 1000 x 1000, Threads: 10
+Total execution time for parallel portion is: 273.788642 seconds
+Total execution time is:  403.696214 seconds
+Total time just for serial section is:  129.907572 seconds
+Grid Size: 1000 x 1000, Threads: 11
+Total execution time for parallel portion is: 272.891229 seconds
+Total execution time is:  402.847564 seconds
+Total time just for serial section is:  129.956335 seconds
+Grid Size: 1000 x 1000, Threads: 12
+Total execution time for parallel portion is: 271.904068 seconds
+Total execution time is:  401.687641 seconds
+Total time just for serial section is:  129.783573 seconds
+Grid Size: 1000 x 1000, Threads: 13
+Total execution time for parallel portion is: 271.8
